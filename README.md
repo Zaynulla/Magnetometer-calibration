@@ -1,4 +1,7 @@
 # Magnetometer-calibration
+About author:
+Zaynulla Zhumaev is an aero-space engineer from SPUTNIX, Russia.
+
 Mag calibration and 3d point cloud visualisation
 This code is for simplification whole process of magnitometer calibration.
 1. Parser data from txt file. String data is ignored, so data could be in format like "x=.., y=.., z=..".
